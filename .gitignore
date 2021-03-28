@@ -3,3 +3,16 @@
 ################################################################################
 
 /Api/bin/Debug/net5.0
+/Api/obj
+/Api.Booking/bin/Debug/netcoreapp3.1
+/Api.Car/bin/Debug/netcoreapp3.1
+/Api.Infrastructure/bin/Debug/netcoreapp3.1
+/Api.Infrastructure/obj
+/Api.Infrastructure.RabbitMQ/bin/Debug/netcoreapp3.1
+/Api.Infrastructure.RabbitMQ/obj
+/BookingTests/bin/Debug/netcoreapp3.1
+/Api.Car/obj
+/Api.Booking/obj
+/BookingTests/obj
+/BookingProcessor/obj
+/BookingProcessor/BookingProcessorTests/obj
